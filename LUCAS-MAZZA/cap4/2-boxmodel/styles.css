@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+.button {
+    border: 1px solid #999;
+    height: 26px;
+    padding: 5px 15px;
+    width: 90px;
+}
+
+.box {
+    background-color: LimeGreen;
+    width: 250px;
+}
+
+.box-with-padding {
+    background-color: LightBlue;
+    padding: 0 25px;
+    width: 250px;
+}
