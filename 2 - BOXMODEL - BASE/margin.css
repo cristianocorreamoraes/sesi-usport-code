@@ -15,5 +15,12 @@
     */
     border: 5px solid #555;
 
+    /* APLICAÇÃO DE MARGEM AO TOPO E A ESQUERDA*/
+    /* margin-top: 40px;
+    margin-left: 40px; */
+
+    /* APLICAÇÃO DE MARGEM AO TOPO E A ESQUERDA*/
+    margin: 40px 40px;
+
 }
 
